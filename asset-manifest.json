@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Assignment.git/static/css/main.f855e6bc.css",
-    "main.js": "/React-Assignment.git/static/js/main.0f511f88.js",
-    "static/js/453.ed3810f9.chunk.js": "/React-Assignment.git/static/js/453.ed3810f9.chunk.js",
-    "static/media/hammer.jpg": "/React-Assignment.git/static/media/hammer.d83e94b08566e5723d07.jpg",
-    "static/media/logo.svg": "/React-Assignment.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/React-Assignment.git/index.html",
-    "main.f855e6bc.css.map": "/React-Assignment.git/static/css/main.f855e6bc.css.map",
-    "main.0f511f88.js.map": "/React-Assignment.git/static/js/main.0f511f88.js.map",
-    "453.ed3810f9.chunk.js.map": "/React-Assignment.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/React-Assignment/static/css/main.f855e6bc.css",
+    "main.js": "/React-Assignment/static/js/main.c4f6eee9.js",
+    "static/js/453.ed3810f9.chunk.js": "/React-Assignment/static/js/453.ed3810f9.chunk.js",
+    "static/media/hammer.jpg": "/React-Assignment/static/media/hammer.d83e94b08566e5723d07.jpg",
+    "static/media/logo.svg": "/React-Assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Assignment/index.html",
+    "main.f855e6bc.css.map": "/React-Assignment/static/css/main.f855e6bc.css.map",
+    "main.c4f6eee9.js.map": "/React-Assignment/static/js/main.c4f6eee9.js.map",
+    "453.ed3810f9.chunk.js.map": "/React-Assignment/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.0f511f88.js"
+    "static/js/main.c4f6eee9.js"
   ]
 }
